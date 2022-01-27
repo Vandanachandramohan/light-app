@@ -1,40 +1,7 @@
-.cont {
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
-  margin-top: 80px;
-  margin-left: 100px;
-  background-color: rgb(90, 89, 89);
+body {
+  background-color: black;
 }
-.button {
-  width: 100px;
-  height: 50px;
-  border-radius: 8px;
-  font-size: 20px;
-  background-color: blueviolet;
-  color: white;
-  margin-left: 100px;
-  margin-top: 50px;
-}
-.cont2 {
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
-  margin-top: 80px;
-  margin-left: 100px;
-  background-color: orange;
-}
-.row {
+
+.SetupContainer {
   display: flex;
-  flex-direction: row;
-}
-.box {
-  width: 40%;
-  height: 50%;
-  align-content: center;
-  justify-content: space-around;
-  border: 3px solid black;
-  margin-left: 30%;
-  margin-top: 10%;
-  background-color: burlywood;
 }
